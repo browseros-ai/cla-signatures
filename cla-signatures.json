@@ -255,6 +255,14 @@
       "created_at": "2026-06-11T03:22:26Z",
       "repoId": 985839104,
       "pullRequestNo": 1162
+    },
+    {
+      "name": "qubozik",
+      "id": 24414057,
+      "comment_id": 4730226050,
+      "created_at": "2026-06-17T12:40:17Z",
+      "repoId": 985839104,
+      "pullRequestNo": 1233
     }
   ]
 }
